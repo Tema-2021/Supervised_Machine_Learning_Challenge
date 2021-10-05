@@ -10,13 +10,13 @@ _____________________________________________________
 
 **Valense Acquah-Louis**
 
-**For this homework, we use Supervised Machine Learning to predict if a loan from LendingClub will become high risk or not. **
+For this homework, we use Supervised Machine Learning to predict if a loan from LendingClub will become high risk or not. 
 LendingClub is a peer-to-peer lending services company that allows individual investors to partially fund personal loans as well as buy and sell notes backing the loans on a secondary market. LendingClub offers their previous data through an API.
 Two machine learning models will be used to classify the risk level of given loans and to determine which works better or is more accurate. These models are, 
 * Logistic Regression model and 
 * Random Forest Classifier. 
 
-**Source of data: **
+**Source of data:**
 * The Data as CSV were obtained from
     * LendingClub
 * Selected Data
